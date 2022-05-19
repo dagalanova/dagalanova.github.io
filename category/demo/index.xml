@@ -5,7 +5,7 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
@@ -13,10 +13,101 @@
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <title>3 post</title>
+      <link>https://example.com/post/5/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instruction</title>
+      <link>https://example.com/post/6/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/6/</guid>
+      <description>&lt;h2 id=&#34;14-tips-for-making-a-presentation-youre-not-ashamed-of&#34;&gt;14 tips for making a presentation you&amp;rsquo;re not ashamed of&lt;/h2&gt;
+&lt;p&gt;A good presentation starts with questions to yourself. You can do the most important part in notepad without even turning on your computer. First, you choose a topic, define a goal, distribute the arguments in the right order. And only now you can open the program and look for pictures for the presentation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formulate a topic
+It is difficult to listen to an interlocutor who jumps from one to another, so the presentation should have only one topic. Otherwise, it will be a long story about nothing. The topic should be narrow enough to offer a solution to the problem at the end. Narrow the topic down until the presentation can be summed up in ten short paragraphs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Determining a good topic is easy - it itself suggests the structure of the speech.
+Broad topic, thought jumps&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Define a goal
+A good presentation changes the existing picture of the world.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A good presentation goal starts with the question: what do I want to change in the behavior of the listeners.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Think of a script
+The purpose of the presentation is what you want to change in the listener&amp;rsquo;s head, and the script is how you will arrive at those changes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Show examples
+Less theory, more life. Show how your product works and how people use it. See how they do it on Kickstarter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alternate slides
+Presentation is like text. If the text consists of sentences of the same length and the same type, it will be boring to read. There is no rhythm. Therefore, alternate text slides and slides with images, add graphics. Sometimes you can joke.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lyrics are shorter
+One slide, one thought. This slide is easy to read and remember. If you are speaking in public, he will keep the attention of the audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 post</title>
+      <link>https://example.com/post/3/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIT</title>
+      <link>https://example.com/post/2/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2/</guid>
+      <description>&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
+&lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of document changes is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/4/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;!&lt;/h2&gt;
+&lt;p&gt;It contains basic elements that can be found in almost any README.md:&lt;/p&gt;
+&lt;p&gt;First level heading for title
+Bolding Important Parts in the Description
+Link to website with clear text
+Second level heading for subparagraphs
+Bulleted list to list benefits
+Although Markdown is reasonably readable in its original form, it is often translated into HTML.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
       <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;1 post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my sait</title>
+      <link>https://example.com/publication/1-post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/1-post/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
