@@ -5,12 +5,46 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>4 post</title>
+      <link>https://example.com/post/7/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 5 Most Popular Programming Languages</title>
+      <link>https://example.com/post/8/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/8/</guid>
+      <description>&lt;h2 id=&#34;1java-language&#34;&gt;1.Java language&lt;/h2&gt;
+&lt;p&gt;A general-purpose programming language that consistently ranks high in popularity ratings. Java applications can run on any computer; a Java virtual machine has been created for this. Java is actively developing mobile applications for the Android operating system.&lt;/p&gt;
+&lt;p&gt;Such successful projects as RuneScape, Yahoo, Amazon, eBay, LinkedIn are written in Java.&lt;/p&gt;
+&lt;p&gt;The disadvantages of Java are the slow operation of programs and the high consumption of RAM.&lt;/p&gt;
+&lt;h2 id=&#34;2c-language&#34;&gt;2.C language&lt;/h2&gt;
+&lt;p&gt;The C language is used to develop operating systems and real-time applications. It is also used as an intermediate when compiling higher-level languages.&lt;/p&gt;
+&lt;p&gt;The C language is complex and contains elements that can easily be mistaken, it contributes to the creation of confusing and far from safe code. For 40 years of existence, it has become obsolete, and this significantly reduces its performance in our time.&lt;/p&gt;
+&lt;p&gt;The C syntax became the basis for other programming languages: C++, Java, C# and Objective-C.&lt;/p&gt;
+&lt;h2 id=&#34;3javascript-language&#34;&gt;3.JavaScript language&lt;/h2&gt;
+&lt;p&gt;Do not confuse it with Java - they are different and completely different languages.&lt;/p&gt;
+&lt;p&gt;JavaScript is used to create graphics, mobile and web applications, in browser operating systems. It is very versatile and quite easy to learn.&lt;/p&gt;
+&lt;h2 id=&#34;4php-language&#34;&gt;4.PHP language&lt;/h2&gt;
+&lt;p&gt;Widely used to create web applications, leading in use for creating dynamic sites. PHP has gone through a rapid evolution and has become in demand among programmers. However, it is often criticized by programmers for its inconsistent syntax.&lt;/p&gt;
+&lt;h2 id=&#34;5python-language&#34;&gt;5.Python language&lt;/h2&gt;
+&lt;p&gt;Python is easy to learn and is very often used when teaching children to code - for example, in Skysmart online school. Programs in Python are close to natural language, so it is great as a first language for a novice programmer.&lt;/p&gt;
+&lt;p&gt;This is a very common language, a large number of projects have been implemented in it. Python is heavily used by Google, and most of YouTube&amp;rsquo;s source code is written in it. It is also often used in the creation of robotic machines.&lt;/p&gt;
+&lt;p&gt;The strengths of Python are modularity and the ability to integrate with other languages, and among the disadvantages are low speed and high memory consumption.
+S&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3 post</title>

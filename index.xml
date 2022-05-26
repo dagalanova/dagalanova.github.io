@@ -33,6 +33,40 @@
     </item>
     
     <item>
+      <title>4 post</title>
+      <link>https://example.com/post/7/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 5 Most Popular Programming Languages</title>
+      <link>https://example.com/post/8/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/8/</guid>
+      <description>&lt;h2 id=&#34;1java-language&#34;&gt;1.Java language&lt;/h2&gt;
+&lt;p&gt;A general-purpose programming language that consistently ranks high in popularity ratings. Java applications can run on any computer; a Java virtual machine has been created for this. Java is actively developing mobile applications for the Android operating system.&lt;/p&gt;
+&lt;p&gt;Such successful projects as RuneScape, Yahoo, Amazon, eBay, LinkedIn are written in Java.&lt;/p&gt;
+&lt;p&gt;The disadvantages of Java are the slow operation of programs and the high consumption of RAM.&lt;/p&gt;
+&lt;h2 id=&#34;2c-language&#34;&gt;2.C language&lt;/h2&gt;
+&lt;p&gt;The C language is used to develop operating systems and real-time applications. It is also used as an intermediate when compiling higher-level languages.&lt;/p&gt;
+&lt;p&gt;The C language is complex and contains elements that can easily be mistaken, it contributes to the creation of confusing and far from safe code. For 40 years of existence, it has become obsolete, and this significantly reduces its performance in our time.&lt;/p&gt;
+&lt;p&gt;The C syntax became the basis for other programming languages: C++, Java, C# and Objective-C.&lt;/p&gt;
+&lt;h2 id=&#34;3javascript-language&#34;&gt;3.JavaScript language&lt;/h2&gt;
+&lt;p&gt;Do not confuse it with Java - they are different and completely different languages.&lt;/p&gt;
+&lt;p&gt;JavaScript is used to create graphics, mobile and web applications, in browser operating systems. It is very versatile and quite easy to learn.&lt;/p&gt;
+&lt;h2 id=&#34;4php-language&#34;&gt;4.PHP language&lt;/h2&gt;
+&lt;p&gt;Widely used to create web applications, leading in use for creating dynamic sites. PHP has gone through a rapid evolution and has become in demand among programmers. However, it is often criticized by programmers for its inconsistent syntax.&lt;/p&gt;
+&lt;h2 id=&#34;5python-language&#34;&gt;5.Python language&lt;/h2&gt;
+&lt;p&gt;Python is easy to learn and is very often used when teaching children to code - for example, in Skysmart online school. Programs in Python are close to natural language, so it is great as a first language for a novice programmer.&lt;/p&gt;
+&lt;p&gt;This is a very common language, a large number of projects have been implemented in it. Python is heavily used by Google, and most of YouTube&amp;rsquo;s source code is written in it. It is also often used in the creation of robotic machines.&lt;/p&gt;
+&lt;p&gt;The strengths of Python are modularity and the ability to integrate with other languages, and among the disadvantages are low speed and high memory consumption.
+S&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>3 post</title>
       <link>https://example.com/post/5/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
@@ -328,23 +362,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Example Project</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
       <description></description>
     </item>
     
