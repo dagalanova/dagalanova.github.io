@@ -5,12 +5,20 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>END</title>
+      <link>https://example.com/post/9/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>4 post</title>
@@ -43,6 +51,16 @@
 &lt;p&gt;This is a very common language, a large number of projects have been implemented in it. Python is heavily used by Google, and most of YouTube&amp;rsquo;s source code is written in it. It is also often used in the creation of robotic machines.&lt;/p&gt;
 &lt;p&gt;The strengths of Python are modularity and the ability to integrate with other languages, and among the disadvantages are low speed and high memory consumption.
 S&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>вини - пух</title>
+      <link>https://example.com/post/10/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/10/</guid>
+      <description>&lt;p&gt;Winnie the Pooh is a teddy bear, a character in two stories and two collections of poems by the English King Alan Milne. Winnie the Pooh first appeared in print on October 14, 1926 in a children&amp;rsquo;s book of the same name.&lt;/p&gt;
+&lt;p&gt;One of the most vulnerable objects of children&amp;rsquo;s literature of the 20th century. In the 1960s-1970s, thanks to the retelling of Boris Zakhoder, and then to the films of the Soyuzmultfilm studio, where Mishka was voiced by Evgeny Leonov, Winnie the Pooh became very popular also in the USSR.&lt;/p&gt;
 </description>
     </item>
     

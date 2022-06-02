@@ -5,7 +5,7 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,11 +13,77 @@
     </image>
     
     <item>
+      <title>END</title>
+      <link>https://example.com/en/post/9/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>END</title>
+      <link>https://example.com/post/9/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>END</title>
+      <link>https://example.com/ru1/post/9/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4 post</title>
+      <link>https://example.com/en/post/7/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>4 post</title>
       <link>https://example.com/post/7/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/7/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>4 post</title>
+      <link>https://example.com/ru1/post/7/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 5 Most Popular Programming Languages</title>
+      <link>https://example.com/en/post/8/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/8/</guid>
+      <description>&lt;h2 id=&#34;1java-language&#34;&gt;1.Java language&lt;/h2&gt;
+&lt;p&gt;A general-purpose programming language that consistently ranks high in popularity ratings. Java applications can run on any computer; a Java virtual machine has been created for this. Java is actively developing mobile applications for the Android operating system.&lt;/p&gt;
+&lt;p&gt;Such successful projects as RuneScape, Yahoo, Amazon, eBay, LinkedIn are written in Java.&lt;/p&gt;
+&lt;p&gt;The disadvantages of Java are the slow operation of programs and the high consumption of RAM.&lt;/p&gt;
+&lt;h2 id=&#34;2c-language&#34;&gt;2.C language&lt;/h2&gt;
+&lt;p&gt;The C language is used to develop operating systems and real-time applications. It is also used as an intermediate when compiling higher-level languages.&lt;/p&gt;
+&lt;p&gt;The C language is complex and contains elements that can easily be mistaken, it contributes to the creation of confusing and far from safe code. For 40 years of existence, it has become obsolete, and this significantly reduces its performance in our time.&lt;/p&gt;
+&lt;p&gt;The C syntax became the basis for other programming languages: C++, Java, C# and Objective-C.&lt;/p&gt;
+&lt;h2 id=&#34;3javascript-language&#34;&gt;3.JavaScript language&lt;/h2&gt;
+&lt;p&gt;Do not confuse it with Java - they are different and completely different languages.&lt;/p&gt;
+&lt;p&gt;JavaScript is used to create graphics, mobile and web applications, in browser operating systems. It is very versatile and quite easy to learn.&lt;/p&gt;
+&lt;h2 id=&#34;4php-language&#34;&gt;4.PHP language&lt;/h2&gt;
+&lt;p&gt;Widely used to create web applications, leading in use for creating dynamic sites. PHP has gone through a rapid evolution and has become in demand among programmers. However, it is often criticized by programmers for its inconsistent syntax.&lt;/p&gt;
+&lt;h2 id=&#34;5python-language&#34;&gt;5.Python language&lt;/h2&gt;
+&lt;p&gt;Python is easy to learn and is very often used when teaching children to code - for example, in Skysmart online school. Programs in Python are close to natural language, so it is great as a first language for a novice programmer.&lt;/p&gt;
+&lt;p&gt;This is a very common language, a large number of projects have been implemented in it. Python is heavily used by Google, and most of YouTube&amp;rsquo;s source code is written in it. It is also often used in the creation of robotic machines.&lt;/p&gt;
+&lt;p&gt;The strengths of Python are modularity and the ability to integrate with other languages, and among the disadvantages are low speed and high memory consumption.
+S&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -47,11 +113,122 @@ S&lt;/p&gt;
     </item>
     
     <item>
+      <title>Top 5 Most Popular Programming Languages</title>
+      <link>https://example.com/ru1/post/8/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/8/</guid>
+      <description>&lt;h2 id=&#34;1java-language&#34;&gt;1.Java language&lt;/h2&gt;
+&lt;p&gt;A general-purpose programming language that consistently ranks high in popularity ratings. Java applications can run on any computer; a Java virtual machine has been created for this. Java is actively developing mobile applications for the Android operating system.&lt;/p&gt;
+&lt;p&gt;Such successful projects as RuneScape, Yahoo, Amazon, eBay, LinkedIn are written in Java.&lt;/p&gt;
+&lt;p&gt;The disadvantages of Java are the slow operation of programs and the high consumption of RAM.&lt;/p&gt;
+&lt;h2 id=&#34;2c-language&#34;&gt;2.C language&lt;/h2&gt;
+&lt;p&gt;The C language is used to develop operating systems and real-time applications. It is also used as an intermediate when compiling higher-level languages.&lt;/p&gt;
+&lt;p&gt;The C language is complex and contains elements that can easily be mistaken, it contributes to the creation of confusing and far from safe code. For 40 years of existence, it has become obsolete, and this significantly reduces its performance in our time.&lt;/p&gt;
+&lt;p&gt;The C syntax became the basis for other programming languages: C++, Java, C# and Objective-C.&lt;/p&gt;
+&lt;h2 id=&#34;3javascript-language&#34;&gt;3.JavaScript language&lt;/h2&gt;
+&lt;p&gt;Do not confuse it with Java - they are different and completely different languages.&lt;/p&gt;
+&lt;p&gt;JavaScript is used to create graphics, mobile and web applications, in browser operating systems. It is very versatile and quite easy to learn.&lt;/p&gt;
+&lt;h2 id=&#34;4php-language&#34;&gt;4.PHP language&lt;/h2&gt;
+&lt;p&gt;Widely used to create web applications, leading in use for creating dynamic sites. PHP has gone through a rapid evolution and has become in demand among programmers. However, it is often criticized by programmers for its inconsistent syntax.&lt;/p&gt;
+&lt;h2 id=&#34;5python-language&#34;&gt;5.Python language&lt;/h2&gt;
+&lt;p&gt;Python is easy to learn and is very often used when teaching children to code - for example, in Skysmart online school. Programs in Python are close to natural language, so it is great as a first language for a novice programmer.&lt;/p&gt;
+&lt;p&gt;This is a very common language, a large number of projects have been implemented in it. Python is heavily used by Google, and most of YouTube&amp;rsquo;s source code is written in it. It is also often used in the creation of robotic machines.&lt;/p&gt;
+&lt;p&gt;The strengths of Python are modularity and the ability to integrate with other languages, and among the disadvantages are low speed and high memory consumption.
+S&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>вини - пух</title>
+      <link>https://example.com/en/post/10/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/10/</guid>
+      <description>&lt;p&gt;Winnie the Pooh is a teddy bear, a character in two stories and two collections of poems by the English King Alan Milne. Winnie the Pooh first appeared in print on October 14, 1926 in a children&amp;rsquo;s book of the same name.&lt;/p&gt;
+&lt;p&gt;One of the most vulnerable objects of children&amp;rsquo;s literature of the 20th century. In the 1960s-1970s, thanks to the retelling of Boris Zakhoder, and then to the films of the Soyuzmultfilm studio, where Mishka was voiced by Evgeny Leonov, Winnie the Pooh became very popular also in the USSR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>вини - пух</title>
+      <link>https://example.com/post/10/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/10/</guid>
+      <description>&lt;p&gt;Winnie the Pooh is a teddy bear, a character in two stories and two collections of poems by the English King Alan Milne. Winnie the Pooh first appeared in print on October 14, 1926 in a children&amp;rsquo;s book of the same name.&lt;/p&gt;
+&lt;p&gt;One of the most vulnerable objects of children&amp;rsquo;s literature of the 20th century. In the 1960s-1970s, thanks to the retelling of Boris Zakhoder, and then to the films of the Soyuzmultfilm studio, where Mishka was voiced by Evgeny Leonov, Winnie the Pooh became very popular also in the USSR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>вини - пух</title>
+      <link>https://example.com/ru1/post/10/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/10/</guid>
+      <description>&lt;p&gt;Winnie the Pooh is a teddy bear, a character in two stories and two collections of poems by the English King Alan Milne. Winnie the Pooh first appeared in print on October 14, 1926 in a children&amp;rsquo;s book of the same name.&lt;/p&gt;
+&lt;p&gt;One of the most vulnerable objects of children&amp;rsquo;s literature of the 20th century. In the 1960s-1970s, thanks to the retelling of Boris Zakhoder, and then to the films of the Soyuzmultfilm studio, where Mishka was voiced by Evgeny Leonov, Winnie the Pooh became very popular also in the USSR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 post</title>
+      <link>https://example.com/en/post/5/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3 post</title>
       <link>https://example.com/post/5/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/5/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>3 post</title>
+      <link>https://example.com/ru1/post/5/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instruction</title>
+      <link>https://example.com/en/post/6/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/6/</guid>
+      <description>&lt;h2 id=&#34;14-tips-for-making-a-presentation-youre-not-ashamed-of&#34;&gt;14 tips for making a presentation you&amp;rsquo;re not ashamed of&lt;/h2&gt;
+&lt;p&gt;A good presentation starts with questions to yourself. You can do the most important part in notepad without even turning on your computer. First, you choose a topic, define a goal, distribute the arguments in the right order. And only now you can open the program and look for pictures for the presentation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formulate a topic
+It is difficult to listen to an interlocutor who jumps from one to another, so the presentation should have only one topic. Otherwise, it will be a long story about nothing. The topic should be narrow enough to offer a solution to the problem at the end. Narrow the topic down until the presentation can be summed up in ten short paragraphs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Determining a good topic is easy - it itself suggests the structure of the speech.
+Broad topic, thought jumps&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Define a goal
+A good presentation changes the existing picture of the world.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A good presentation goal starts with the question: what do I want to change in the behavior of the listeners.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Think of a script
+The purpose of the presentation is what you want to change in the listener&amp;rsquo;s head, and the script is how you will arrive at those changes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Show examples
+Less theory, more life. Show how your product works and how people use it. See how they do it on Kickstarter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alternate slides
+Presentation is like text. If the text consists of sentences of the same length and the same type, it will be boring to read. There is no rhythm. Therefore, alternate text slides and slides with images, add graphics. Sometimes you can joke.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lyrics are shorter
+One slide, one thought. This slide is easy to read and remember. If you are speaking in public, he will keep the attention of the audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -94,11 +271,76 @@ One slide, one thought. This slide is easy to read and remember. If you are spea
     </item>
     
     <item>
+      <title>Instruction</title>
+      <link>https://example.com/ru1/post/6/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/6/</guid>
+      <description>&lt;h2 id=&#34;14-tips-for-making-a-presentation-youre-not-ashamed-of&#34;&gt;14 tips for making a presentation you&amp;rsquo;re not ashamed of&lt;/h2&gt;
+&lt;p&gt;A good presentation starts with questions to yourself. You can do the most important part in notepad without even turning on your computer. First, you choose a topic, define a goal, distribute the arguments in the right order. And only now you can open the program and look for pictures for the presentation.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Formulate a topic
+It is difficult to listen to an interlocutor who jumps from one to another, so the presentation should have only one topic. Otherwise, it will be a long story about nothing. The topic should be narrow enough to offer a solution to the problem at the end. Narrow the topic down until the presentation can be summed up in ten short paragraphs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Determining a good topic is easy - it itself suggests the structure of the speech.
+Broad topic, thought jumps&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Define a goal
+A good presentation changes the existing picture of the world.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A good presentation goal starts with the question: what do I want to change in the behavior of the listeners.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Think of a script
+The purpose of the presentation is what you want to change in the listener&amp;rsquo;s head, and the script is how you will arrive at those changes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Show examples
+Less theory, more life. Show how your product works and how people use it. See how they do it on Kickstarter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alternate slides
+Presentation is like text. If the text consists of sentences of the same length and the same type, it will be boring to read. There is no rhythm. Therefore, alternate text slides and slides with images, add graphics. Sometimes you can joke.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lyrics are shorter
+One slide, one thought. This slide is easy to read and remember. If you are speaking in public, he will keep the attention of the audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 post</title>
+      <link>https://example.com/en/post/3/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2 post</title>
       <link>https://example.com/post/3/</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/3/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2 post</title>
+      <link>https://example.com/ru1/post/3/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIT</title>
+      <link>https://example.com/en/post/2/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/2/</guid>
+      <description>&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
+&lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of document changes is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -108,6 +350,32 @@ One slide, one thought. This slide is easy to read and remember. If you are spea
       <guid>https://example.com/post/2/</guid>
       <description>&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
 &lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of document changes is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GIT</title>
+      <link>https://example.com/ru1/post/2/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/2/</guid>
+      <description>&lt;h2 id=&#34;git&#34;&gt;git&lt;/h2&gt;
+&lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of document changes is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/en/post/4/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/4/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;!&lt;/h2&gt;
+&lt;p&gt;It contains basic elements that can be found in almost any README.md:&lt;/p&gt;
+&lt;p&gt;First level heading for title
+Bolding Important Parts in the Description
+Link to website with clear text
+Second level heading for subparagraphs
+Bulleted list to list benefits
+Although Markdown is reasonably readable in its original form, it is often translated into HTML.&lt;/p&gt;
 </description>
     </item>
     
@@ -128,6 +396,32 @@ Although Markdown is reasonably readable in its original form, it is often trans
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/ru1/post/4/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/4/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;!&lt;/h2&gt;
+&lt;p&gt;It contains basic elements that can be found in almost any README.md:&lt;/p&gt;
+&lt;p&gt;First level heading for title
+Bolding Important Parts in the Description
+Link to website with clear text
+Second level heading for subparagraphs
+Bulleted list to list benefits
+Although Markdown is reasonably readable in its original form, it is often translated into HTML.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://example.com/en/post/getting-started/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;1 post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
@@ -138,10 +432,178 @@ Although Markdown is reasonably readable in its original form, it is often trans
     </item>
     
     <item>
+      <title>Welcome</title>
+      <link>https://example.com/ru1/post/getting-started/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;1 post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my sait</title>
+      <link>https://example.com/en/publication/1-post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/publication/1-post/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to my sait</title>
       <link>https://example.com/publication/1-post/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/1-post/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my sait</title>
+      <link>https://example.com/ru1/publication/1-post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru1/publication/1-post/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
